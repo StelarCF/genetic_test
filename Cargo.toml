@@ -1,0 +1,7 @@
+[package]
+name = "genetic_test"
+version = "0.1.0"
+authors = ["StelarCF <StelarCF@gmail.com>"]
+
+[dependencies]
+rand = "*"
